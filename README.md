@@ -3,7 +3,7 @@ m3pi_ros
 
 Work-in-progress to interface the Pololu m3pi robot into my multirobot testbed.
 
-m3pi.py implements the m3pi class, for use in other python modules
+m3pi.py implements the m3pi class, for use in other python modules.
 
 api_example.py - interactive python program to control m3pi wirelessly based on keyboard input, using the m3pi class. To run it:
 * Install pyserial
